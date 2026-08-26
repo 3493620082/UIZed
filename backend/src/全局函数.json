@@ -20,6 +20,10 @@
         "description": "获取当前玩家的状态对象，然后就可以修改或查看玩家的状态，情绪、压力、无聊等\n文档:https://albion.codeberg.page/PZ-JavaDocs/zombie/characters/ILuaGameCharacter.html#getStats()"
     },
     {
+        "signature": "getText(textKey)",
+        "description": "根据文本键去翻译文件中找对应的文本内容，主要用于国际化和中文显示问题\n例如现有翻译文件\n{\n    \"hello\": \"你好\"\n}\n则getText(\"hello\")返回\"你好\""
+    },
+    {
         "signature": "getGameTime()",
         "description": "获取游戏时间对象"
     },
