@@ -1,0 +1,42 @@
+[
+    {
+        "signature": "-*-互联网文档-*-",
+        "description": "https://docs.qq.com/sheet/DYmthdmxsVHFocnN0"
+    },
+    {
+        "signature": "print(content)",
+        "description": "打印内容到控制台,可以是字符串、数字、布尔值、表等类型"
+    },
+    {
+        "signature": "getPlayer()",
+        "description": "获取当前玩家对象，进而可以调用玩家相关的函数\ngetPlayer():Say(内容)\nSay方法的作用是在玩家头顶显示内容"
+    },
+    {
+        "signature": "getSpecificPlayer(playerId)",
+        "description": "根据玩家ID获取玩家对象，进而可以调用玩家相关的函数"
+    },
+    {
+        "signature": "getPlayer():getStats()",
+        "description": "获取当前玩家的状态对象，然后就可以修改或查看玩家的状态，情绪、压力、无聊等\n文档:https://albion.codeberg.page/PZ-JavaDocs/zombie/characters/ILuaGameCharacter.html#getStats()"
+    },
+    {
+        "signature": "getGameTime()",
+        "description": "获取游戏时间对象"
+    },
+    {
+        "signature": "isServer()",
+        "description": "是否是服务端"
+    },
+    {
+        "signature": "isClient()",
+        "description": "是否是客户端"
+    },
+    {
+        "signature": "getKeyName(keyCode)",
+        "description": "根据键码获取键名,例如2是主键盘的数字1"
+    },
+    {
+        "signature": "getKeyCode(keyName)",
+        "description": "根据键名获取键码"
+    }
+]

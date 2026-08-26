@@ -1,0 +1,23 @@
+:root {
+  --text: #303133;
+  --text-h: #1f2d3d;
+  --bg: #f5f7fa;
+  --border: #e4e7ed;
+
+  font-family: system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-size: 14px;
+  color: var(--text);
+  background-color: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

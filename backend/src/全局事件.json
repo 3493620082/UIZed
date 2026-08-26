@@ -1,0 +1,90 @@
+[
+    {
+        "signature": "-*-互联网文档-*-",
+        "description": "https://docs.qq.com/sheet/DYkR0WmtCRnltV1B3"
+    },
+    {
+        "name": "OnKeyPressed",
+        "description": "Events.OnKeyPressed.Add(callback)：键盘按下事件"
+    },
+    {
+        "name": "OnZombieDead",
+        "description": "Events.OnZombieDead.Add(callback)：僵尸死亡事件"
+    },
+    {
+        "name": "EveryOneMinute",
+        "description": "Events.EveryOneMinute.Add(callback)：每分钟事件"
+    },
+    {
+        "name": "EveryTenMinutes",
+        "description": "Events.EveryTenMinutes.Add(callback)：每十分钟事件"
+    },
+    {
+        "name": "EveryDays",
+        "description": "Events.EveryDays.Add(callback)：每天事件"
+    },
+    {
+        "name": "EveryHours",
+        "description": "Events.EveryHours.Add(callback)：每小时事件"
+    },
+    {
+        "name": "OnFillInventoryObjectContextMenu",
+        "description": "Events.OnFillInventoryObjectContextMenu.Add(callback)：生成库存物品菜单事件"
+    },
+    {
+        "name": "OnFillWorldObjectContextMenu",
+        "description": "Events.OnFillWorldObjectContextMenu.Add(callback)：生成世界菜单事件"
+    },
+    {
+        "name": "OnGameStart",
+        "description": "Events.OnGameStart.Add(callback)：游戏开始事件"
+    },
+    {
+        "name": "AddXP",
+        "description": "Events.AddXP.Add(callback)：添加经验事件"
+    },
+    {
+        "name": "OnCreateUI",
+        "description": "Events.OnCreateUI.Add(callback)：创建UI事件"
+    },
+    {
+        "name": "OnHitZombie",
+        "description": "Events.OnHitZombie.Add(callback)：僵尸被击事件"
+    },
+    {
+        "name": "OnPlayerDeath",
+        "description": "Events.OnPlayerDeath.Add(callback)：玩家死亡事件"
+    },
+    {
+        "name": "OnPlayerAttackFinished",
+        "description": "Events.OnPlayerAttackFinished.Add(callback)：玩家攻击完成事件"
+    },
+    {
+        "name": "OnPlayerMove",
+        "description": "Events.OnPlayerMove.Add(callback)：玩家移动事件"
+    },
+    {
+        "name": "OnPlayerSetSafehouse",
+        "description": "Events.OnPlayerSetSafehouse.Add(callback)：玩家设置安全屋事件"
+    },
+    {
+        "name": "OnTick",
+        "description": "Events.OnTick.Add(callback)：每帧事件"
+    },
+    {
+        "name": "OnWeaponHitCharacter",
+        "description": "Events.OnWeaponHitCharacter.Add(callback)：武器击中角色事件"
+    },
+    {
+        "name": "OnWeaponHitTree",
+        "description": "Events.OnWeaponHitTree.Add(callback)：武器击中树事件"
+    },
+    {
+        "name": "OnWeaponHitXp",
+        "description": "Events.OnWeaponHitXp.Add(callback)：武器击中经验事件"
+    },
+    {
+        "name": "OnWeaponSwing",
+        "description": "Events.OnWeaponSwing.Add(callback)：武器挥舞事件"
+    }
+]
